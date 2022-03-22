@@ -1,0 +1,67 @@
+welcome: Ciao, sono YoYo-Ma! Posso eseguire i tuoi comandi! Wow!
+yes: Sì! Sì! Sì!
+no: No! No! No!
+
+locale_set: Ora parlo italiano!
+no_locale: Non supporto questa lingua mi dispiace
+
+genius__empty_lyrics: Il testo della canzone non può essere vuoto dai
+genius__no_song: Nessuna canzone trovata con questo testo...
+genius__other_songs_found: Ci sarebbero altre ${amount} potenziali canzoni:\n
+
+s2t__download_fail: Non riesco a scaricare il file audio, rip
+s2t__conversion_fail: Non riesco a convertire questo file in MP3, rip
+s2t__transcribe_fail: Wow non ho proprio capito un cazzo di quello che hai detto!
+s2t__transcribe_fail_auth: Non riesco ad autenticarmi nel server di trascrizione, ma che cazz?
+s2t__transcribe_timeout: Non riesco a trascrivere il messaggio, il server ha impiegato troppo tempo a rispondere...
+s2t__transcribe_error: Non riesco a comunicare con il server di trascrizione... riprova più tardi pliz
+s2t__too_big: Audio troppo lungo, la smetti di mandare sti cazzo di audio lunghissimi? Mah
+s2t__split_fail: Non sono riuscito a tagliare il file, ...damn... fuck... damn...
+
+scp__not_valid: SCP non valido
+scp__not_found: Nessun SCP trovato
+
+rcg__error: Errore durante il recupero dell'immagine casuale
+
+rss__error: Errore durante l'esecuzione del comando, controllare la console del bot
+rss__no_feeds: Su questa chat non sto ascoltando alcun RSS feed. Vuoi aggiungere un nuovo feed?
+rss__no_emitter: Nessun event emitter trovato per questo gruppo... strano
+rss__conflict: L'event emitter esiste già per questo gruppo!
+rss__new_enter: Inserisci il link del feed RSS sul quale ti vuoi mettere in ascolto
+rss__new_listening: Ok, ti aggiornerò se ci sono feed nuovi su ${url}!
+rss__new_item: Novità da "${title}":\n<a href="${link}">${item_title}</a>
+
+ct__heads: Testa!
+ct__tails: Croce!
+
+ytaudio__not_found: Non ho trovato proprio un cazzo su Youtube per questa ricerca...
+ytaudio__error: Non sono riuscito a recuperare l'audio dal video di Youtube. Controlla la console per dettagli
+ytaudio__too_long: Questo video è troppo lungo, vuoi per caso uccidermi? Eh? Hostati da solo coglione
+
+config__manage: Settings per la chat "${group_name}"
+config__transcriber_enabled: Transcriber ${enabled}
+config__react_enabled: Reazione a testo ${enabled}
+config__i18n_locale: "Lingua: ${locale}"
+config__error: Errore durante il recupero della configurazione per questa chat!
+
+fusion__generating: Sto generando un nuovo Pokémon fuso solo per te...
+fusion__generated: Ecco il tuo Pokémon fuso! Un esemplare di ${fusion_name} davvero interessante...
+fusion__fail: Non sono riuscito a fondere i 2 Pokémon, sono riusciti a fuggire! Bastardi...
+
+sid__start: Mandami uno sticker e ti dirò il suo id
+sid__no_sticker: Per favore manda uno sticker così posso dirti il suo id!
+sid__sticker: Questo sticker ha come id ${sticker_id}
+
+tesseract__start: Mandami una foto e cercherò di trascrivere il testo che contiene, se è presente
+tesseract__not_photo: Ma questo messaggio non contiene una foto imbecille
+tesseract__progress: Sto cercando di trascrivere questa immagine... ${progress}%
+
+rl__exceeded: Ma che oooh la volete smettere di spammarmi
+
+scene_end: Comando concluso!
+
+fbvideo__download_failed: Non sono riuscito a recuperare il video...
+
+tiktok__invalid_url: Passami un link video valido di TikTok per scaricare il video!
+
+dt__error: Non sono riuscito a generare il video...

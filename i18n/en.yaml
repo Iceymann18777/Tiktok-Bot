@@ -1,0 +1,68 @@
+welcome: Welcome, I'm YoYo-Ma! I can execute your commands! Wow!
+yes: Yes! Yes! Yes!
+no: No! No! No!
+
+locale_set: Language set to English!
+no_locale: Sorry, I do not support this language yet
+
+genius__empty_lyrics: Lyrics text is empty man
+genius__no_song: No song found with these lyrics...
+genius__other_songs_found: ${amount} other potential songs found:\n
+
+s2t__download_fail: Couldn't download the audio file...
+s2t__conversion_fail: Couldn't convert the audio file to MP3
+s2t__transcribe_fail: Wow I didn't understand a single word of that
+s2t__transcribe_fail_auth: Failed to login into the transcriber server, wtf? Check token
+s2t__transcribe_timeout: Failed to transcribe, server timeout
+s2t__transcribe_error: Can't communicate with transcriber api, try again later
+s2t__too_big: Audio too long, I don't think I can transcribe it whole without dying
+s2t__split_fail: Failed to split audio file, I'm such a failure damn... fuck...
+
+scp__not_valid: SCP not valid
+scp__not_found: No SCP found
+
+rcg__error: Error while getting random comic
+
+rss__error: Error during command execution. Check the console for details
+rss__no_feeds: I'm not listening for any RSS feed in this chat. Would you like to listen for a new feed?
+rss__no_emitter: No event emitter found for this group...
+rss__conflict: Emitter already exists for this group!
+rss__new_enter: Enter the RSS feed link you want to listen for
+rss__new_listening: Now listening ${url}. I will keep you updated on new feeds!
+rss__new_item: New feed from "${title}":\n<a href="${link}">${item_title}</a>
+
+ct__heads: Heads!
+ct__tails: Tails!
+
+ytaudio__not_found: Video not found on Youtube...
+ytaudio__error: Couldn't get audio from Youtube video. Check the console for details
+ytaudio__too_long: This video is too long man. Do you want to kill me? Host this shit yourself, dumbass
+
+config__manage: Settings for group "${group_name}"
+config__transcriber_enabled: Transcriber ${enabled}
+config__react_enabled: Reaction to text ${enabled}
+config__i18n_locale: "Language: ${locale}"
+config__error: Error during config retrieval for this chat!
+
+fusion__generating: Generating a new Pokémon fusion just for you...
+fusion__generated: Here it is, its name is ${fusion_name}. Pretty interesting, indeed...
+fusion__fail: Couldn't fuse the 2 Pokémons, they managed to escape! Those bastards...
+
+sid__start: Send me a sticker and I will tell you its id
+sid__no_sticker: Please send a sticker so I can get its id!
+sid__sticker: Sticker id is ${sticker_id}
+
+tesseract__start: Send me a picture and I will try to transcribe the text on it, if present
+tesseract__not_photo: This message does not contain a picture. Are you dense? I told you to give me a fucking picture
+tesseract__progress: I'm transcribing this image... ${progress}%
+
+rl__exceeded: Can you guys fucking stop spamming? Thanks
+
+scene_end: Command concluded!
+
+fbvideo__download_failed: Couldn't get Facebook video...
+
+tiktok__invalid_url: Pass me a valid TikTok video URL to download it!
+
+dt__error: Couldn't generate DadoText...
+
