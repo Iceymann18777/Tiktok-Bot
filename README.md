@@ -104,4 +104,3 @@ That's all folks!
 
 ---
 
-Made with :green_heart: using [telegraf](https://github.com/telegraf/telegraf)
